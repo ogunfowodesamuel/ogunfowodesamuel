@@ -8,7 +8,7 @@ I am a Data Analyst with hands-on experience; passionate about transforming raw 
 - Python
 
 ## My Projects 
-[coffee Sales Analysis] (https://github.com/ogunfowodesamuel/Coffee-Sales---Analysis)
+[coffee Sales Analysis](https://github.com/ogunfowodesamuel/Coffee-Sales---Analysis)
 
 ## Currently Learning
 - Advanced SQL
